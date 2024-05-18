@@ -1,23 +1,22 @@
 body{
-    background-color: red;
+    background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
-header{
-    background-color: rgb(158, 200, 206);
+#int1 , #int5 {
+    background-color: rgb(205, 240, 245);
     text-align: center;
     margin-top: 10px;
     padding-top: 10px;
-    padding-bottom: 5px;
-    border-radius: 5px;
+    padding-bottom: 5px;  
+    border-radius: 5px; 
 }
 
 img{
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
-#int1 , #int2 {
+#int2 , #int3 , #int4 {
     background-color: white;
     padding-top: 10px;
     padding-bottom: 8px;
@@ -30,17 +29,73 @@ img{
 
 #i1, #i2, #i3, #i4{
     background-color: aquamarine;
-    padding-right: 5px;
-    padding-left: 5px;
-    border-radius: 5px;
-    margin-right: 5px;
-    margin-left: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
    display: inline;
-    
-    
-    
-    
 }
+
+table{
+    border: 3px solid black ;
+}  
+
+th{
+    border: 2px dashed black;
+}
+
+tr td{
+    border: 1px dotted black;
+}
+
+
+
+
+
+
+
+
+/*
+#int6{
+    border: 3px solid green;
+}
+int6 tr,td,th{
+    border: 1px solid rgb(255, 0, 0);
+    text-align: justify;
+
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 
